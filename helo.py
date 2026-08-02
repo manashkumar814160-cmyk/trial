@@ -3,3 +3,5 @@ def welcome():
     print("Welcome to the project")
 
 welcome()
+def team_message():
+    print("Feature created collaboratively")
